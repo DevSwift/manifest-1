@@ -10,7 +10,7 @@
 
   <remote  name="private"
            review="gerrit.omnirom.org"
-           fetch="ssh://git@build2.dev.xda-developers.com" />
+           fetch="https://gerrit.omnirom.org" />
 
   <remote  name="github"
            fetch="https://github.com" />
